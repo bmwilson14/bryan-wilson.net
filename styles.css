@@ -1,0 +1,21 @@
+body {
+    background: black;
+    color: cornsilk;
+    padding-left: 20px;
+    font-family: Reenie Beanie;
+    font-size: 1.2em;
+}
+
+h1 {
+    color: cornsilk;
+}
+
+a {
+    color: inherit !important;
+    text-decoration: none;
+}
+
+p {
+    color: black;
+}
+
